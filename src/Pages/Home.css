@@ -103,3 +103,19 @@ article img{
   .erro a{
       color: red;
   }
+
+
+  /* Responsividade */
+
+
+  @media (max-width: 600px){
+    article img{
+      width: 150px;
+      height: 200px;
+    }
+
+    .button{
+      width: 150px;
+      font-size: 13px;
+    }
+  }

@@ -70,3 +70,27 @@ ul li{
 .detalhes a:hover{
    background-color: #420002;
 }
+
+/* responsividade */
+
+@media (max-width: 600px){
+    .detalhes a{
+       background-color: transparent;
+       padding: 0;
+       color: black;
+       font-weight: bold;
+
+    }
+
+    .container-favoritos i {
+        font-size: 13px;
+    }
+
+    .container-favoritos p{
+        color: #ddd;
+    }
+
+    ul{
+        width: 95%;
+    }
+}

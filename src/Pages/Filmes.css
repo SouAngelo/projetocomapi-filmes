@@ -84,6 +84,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    
 }
 
 .text h2{
@@ -148,4 +149,27 @@ button:hover, .btns a:hover{
    
 }
 
+/* responsividade */
 
+@media (max-width: 600px){
+  .container2 h1{
+      font-size: 20px;
+      margin-top: -20px;
+  }
+
+  .btns{
+    
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  button, .btns a{
+    width: 150px;
+  }
+
+  .text{
+    padding: 0 10px;
+    text-transform: capitalize;
+  }
+}
