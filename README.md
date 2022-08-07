@@ -9,13 +9,13 @@ Essa é uma página de filmes que foram recentemente lançados, onde podemos ver
 ## 📱 Layout para Celular
 <br>
 <p align='center'>
-<img width='300' height='600' src='/img/filmesMobile.png'>
+<img width='400' height='2500' src='/src/img/filmesMobile.png'>
 </p>
 
 ## 💻 Layout para Web
 <br>
 <p align='center'>
-<img width='700' src='/imgs-videos-demo/gifdesktop.gif'>
+<img width='700' src='/src/img/filmesDesktop.png'>
 </p>
 
 <br>
@@ -26,6 +26,7 @@ Essa é uma página de filmes que foram recentemente lançados, onde podemos ver
 - React JS
 - CSS3
 - JAVASCRIPT
+- HTML5
 <br>
 
 ## Implantação em produção
