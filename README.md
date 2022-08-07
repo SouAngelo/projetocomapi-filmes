@@ -20,6 +20,7 @@ Essa é uma página de filmes que foram recentemente lançados, onde podemos ver
 
 <br>
 ## 🧑‍💻 Tecnologias utilizadas
+
 <br>
 
 - React JS
