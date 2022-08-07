@@ -9,7 +9,7 @@ Essa é uma página de filmes que foram recentemente lançados, onde podemos ver
 ## 📱 Layout para Celular
 <br>
 <p align='center'>
-<img width='300' height='600' src='/img/filmeMobile.png'>
+<img width='300' height='600' src='/img/filmesMobile.png'>
 </p>
 
 ## 💻 Layout para Web
